@@ -186,7 +186,7 @@ widgets: []
     <div class="media-content">
       <div class="content" >
         <p >
-          <a href="https://wwwcloudcver.com" target="_blank"> <span class="text-dark">CloudCver 意犹未尽</span></a>
+          <a href="https://www.cloudcver.com" target="_blank"> <span class="text-dark">CloudCver 意犹未尽</span></a>
           <div class="text-muted">人工智能、CV小白</div>
         </p>
       </div>
@@ -200,14 +200,14 @@ widgets: []
   <article class="media">
     <div class="media-left">
       <figure class="image is-64x64">
-        <img src="/avatars/avatar.jpg"  width=128 height=128>
+        <img src="/avatars/mipmap_avatar.jpg"  width=128 height=128>
       </figure>
     </div>
     <div class="media-content">
       <div class="content" >
         <p >
-          <a href="https://bitcrush.top/" target="_blank"> <span class="text-dark">一见倾心</span></a>
-          <div class="text-muted">虚位以待</div>
+          <a href="http://www.mipmap.top:666" target="_blank"> <span class="text-dark">MipMap</span></a>
+          <div class="text-muted">一个爱学习的中学生</div>
         </p>
       </div>
     </div>
