@@ -62,7 +62,3 @@ categories: Network
 
 ![network-protocol-map](/postImg/network-protocol-map.gif)
 
-##  TCP 三次握手
-
-### TCP 报文结构
-

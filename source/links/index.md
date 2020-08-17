@@ -1,217 +1,102 @@
 ---
-title: Links
+layout: links
+title: links
+comments: true
 widgets: []
+links:
+  - group: 友情链接
+    items:
+    - url: https://bitcrush.top/
+      img: /avatars/avatar.webp
+      name: 一见倾心
+      desc: 你要很酷，世界才不会残酷
+    - url: https://dp2px.com/
+      img: /avatars/dp2px_avatar.webp
+      name: 水寒的博客
+      desc: 安卓、前端、物联网大佬
+    - url: https://www.jitwxs.cn/
+      img: /avatars/jitwxs_avatar.webp
+      name: Jitwxs
+      desc: Java 后端开发大佬
+    - url: https://www.imaegoo.com/
+      img: /avatars/imaegoo_avatar.webp
+      name: iMaeGoo’s Blog
+      desc: 虹墨空间站   
+    - url: https://www.aye.ink/
+      img: /avatars/aye_avatar.webp
+      name: 致永远-For Aye
+      desc: Electrical Engineer & Designer
+    - url: https://yafine66.gitee.io/
+      img: /avatars/yafine_avatar.webp
+      name: 过客~励む
+      desc: 努力，为了将来更好的选择
+    - url: https://xiaoshidigitee.gitee.io/
+      img: /avatars/liuyao-blog-avatar.webp
+      name: 果果小师弟
+      desc: 一个喜欢嵌入式的小码农
+    - url: https://www.geekinns.cn/
+      img: /avatars/geekinns_avatar.webp
+      name: GeekInns
+      desc: 努力努力，学习不易
+    - url: https://www.cloudcver.com/
+      img: /avatars/CloudCver_avatar.webp
+      name: CloudCver 意犹未尽
+      desc: 人工智能、CV小白
+    - url: https://www.hefine.cn/
+      img: /avatars/mipmap_avatar.webp
+      name: 吾道不孤
+      desc: 求真，求知
+    - url: https://www.moex.club/
+      img: /avatars/moex_avatar.webp
+      name: MoeXin
+      desc: Live your life with passion!
+    - url: https://yunist.cn/
+      img: /avatars/zplayer_avatar.webp
+      name: 云玩家
+      desc: 尝试制造人工智障
+    - url: https://520526.xyz
+      img: /avatars/dperch_avatar.webp
+      name: 栖枝perch
+      desc: 用心创造设计，改变生活🌸!
+    - url: https://www.jingfengji.tech/
+      img: /avatars/jingfengjiavatar.webp
+      name: JingFengJi
+      desc: Game Developer, Game Coder
+    - url:  https://blog.2broear.com/
+      img: /avatars/2B_avatar.webp
+      name: 2BROEAR
+      desc: 兴趣指引方向，会玩才会学
+    - url:  https://cungudafa.top/
+      img: /avatars/cungudafa_avatar.webp
+      name: cungudafa
+      desc: 一个学习记录者
+    - url:  https://www.yalexin.top/
+      img: /avatars/cat_mouse.webp
+      name: 黄阿信
+      desc: 要么改变世界，要么适应世界
+    - url:  https://www.lostfawn.cn/
+      img: /avatars/lostfawn_avatar.webp
+      name: 迷鹿
+      desc: 等待也是约会的一部分嘛
+    - url:  https://www.mobaijun.com/
+      img: /avatars/mobaijun_avatar.webp
+      name: 框架师
+      desc: 终于等到你,还好没放弃
+    - url:  https://www.studytime.xin/
+      img: /avatars/studytime_avatar.webp
+      name: 白程序员的自习室
+      desc: 分享日常学习的知识和技术
+    - url:  https://www.xn2001.com/
+      img: /avatars/xn2001_avatar.webp
+      name: 乐心湖's Blog
+      desc: 技术小白的小世界
+    - url:  https://zhangxiaocai.cn/
+      img: /avatars/zhangxiaocai_avatar.webp
+      name: Small-Rose
+      desc: 道虽迩，不行不至；事虽小，不为不成
+    - url:  https://kevinknow.cn/
+      img: /avatars/kevinknow_avatar.webp
+      name: 上帝的笑
+      desc: 深自缄默,如云漂泊
+
 ---
-
-**申请友链须知**
-
-- 原则上只和技术、情感类博客互换友链，且具有原创高质量文章优先。
-- 不与含有色情、暴力、政治敏感或其他法律法规禁止的网站互换。
-- 申请链接前请先添加本博链接，通过本友链页面留言或邮件告知。
-- 请提供网站名称、网站链接、网站描述（12字以内）、网站图标或头像。
-- 本站会定期对所有友链进行检查，如果发现一月内不能访问或者数月内没有内容更新可能会取消该友链。
-
----
-
-
-
-**友情链接**
-
-<!-- 第一排 -->
-<div class="columns">
-
-<!-- 01 -->
-<div class="column ">
-    <div class="box ">
-  <article class="media">
-    <div class="media-left">
-      <figure class="image is-64x64">
-        <img src="/avatars/avatar.jpg"  width=128 height=128>
-      </figure>
-    </div>
-    <div class="media-content">
-      <div class="content" >
-        <p >
-          <a href="https://bitcrush.top/" target="_blank"> <span class="text-dark">一见倾心</span></a>
-          <div class="text-muted">你要很酷，世界才不会残酷</div>
-        </p>
-      </div>
-    </div>
-  </article>
-</div>
-</div>
-<!-- 02 -->
-<div class="column ">
-    <div class="box ">
-  <article class="media">
-    <div class="media-left">
-      <figure class="image is-64x64">
-        <img src="/avatars/dp2px_avatar.png"  width=128 height=128>
-      </figure>
-    </div>
-    <div class="media-content">
-      <div class="content" >
-        <p >
-          <a href="https://dp2px.com/ " target="_blank"> <span class="text-dark">水寒的博客 </span></a>
-          <div class="text-muted">安卓、前端、物联网大佬</div>
-        </p>
-      </div>
-    </div>
-  </article>
-</div>
-</div>
-<!-- 03 -->
-<div class="column ">
-    <div class="box ">
-  <article class="media">
-    <div class="media-left">
-      <figure class="image is-64x64">
-        <img src="/avatars/jitwxs_avatar.jpg"  width=128 height=128>
-      </figure>
-    </div>
-    <div class="media-content">
-      <div class="content" >
-        <p >
-          <a href="https://www.jitwxs.cn/" target="_blank"> <span class="text-dark">Jitwxs</span></a>
-          <div class="text-muted">Java 后端开发大佬</div>
-        </p>
-      </div>
-    </div>
-  </article>
-</div>
-</div>
-
-</div>
-
-<!-- 第二排 -->
-<div class="columns">
- <!--04  -->
-<div class="column">
-    <div class="box ">
-  <article class="media">
-    <div class="media-left">
-      <figure class="image is-64x64">
-        <img src="/avatars/aye_avatar.jpg"  width=128 height=128>
-      </figure>
-    </div>
-    <div class="media-content">
-      <div class="content" >
-        <p >
-          <a href=" https://www.Aye.Ink" target="_blank"> <span class="text-dark">致永远-For Aye</span></a>
-          <div class="text-muted">笔墨写春秋,挥毫斥方遒</div>
-        </p>
-      </div>
-    </div>
-  </article>
-</div>
-</div>
-
-<!-- 05 -->
-<div class="column">
-    <div class="box ">
-  <article class="media">
-    <div class="media-left">
-      <figure class="image is-64x64">
-        <img src="/avatars/yafine_avatar.jpg"  width=128 height=128>
-      </figure>
-    </div>
-    <div class="media-content">
-      <div class="content" >
-        <p >
-          <a href="https://yafine66.gitee.io" target="_blank"> <span class="text-dark">过客~励む</span></a>
-          <div class="text-muted">努力，为了将来更好的选择</div>
-        </p>
-      </div>
-    </div>
-  </article>
-</div>
-</div>
-<!-- 06 -->
-   <div class="column ">
-    <div class="box ">
-  <article class="media">
-    <div class="media-left">
-      <figure class="image is-64x64">
-        <img src="/avatars/liuyao-blog-avatar.jpg"  width=128 height=128>
-      </figure>
-    </div>
-    <div class="media-content">
-      <div class="content" >
-        <p >
-          <a href="https://xiaoshidigitee.gitee.io" target="_blank"> <span class="text-dark">果果小师弟</span></a>
-          <div class="text-muted">一个喜欢嵌入式的小码农</div>
-        </p>
-      </div>
-    </div>
-  </article>
-</div>
-</div>
-</div>
-
-
-
-
-<!-- 第三排 -->
-<div class="columns">
- <!--07  -->
-<div class="column">
-    <div class="box ">
-  <article class="media">
-    <div class="media-left">
-      <figure class="image is-64x64">
-        <img src="/avatars/geekinns_avatar.jpg"  width=128 height=128>
-      </figure>
-    </div>
-    <div class="media-content">
-      <div class="content" >
-        <p >
-          <a href=" https://www.geekinns.cn" target="_blank"> <span class="text-dark">GeekInns</span></a>
-          <div class="text-muted">努力努力，学习不易</div>
-        </p>
-      </div>
-    </div>
-  </article>
-</div>
-</div>
-
-<!-- 08 -->
-<div class="column ">
-    <div class="box ">
-  <article class="media">
-    <div class="media-left">
-      <figure class="image is-64x64">
-        <img src="/avatars/CloudCver_avatar.jpg"  width=128 height=128>
-      </figure>
-    </div>
-    <div class="media-content">
-      <div class="content" >
-        <p >
-          <a href="https://www.cloudcver.com" target="_blank"> <span class="text-dark">CloudCver 意犹未尽</span></a>
-          <div class="text-muted">人工智能、CV小白</div>
-        </p>
-      </div>
-    </div>
-  </article>
-</div>
-</div>
-<!-- 09 -->
-  <div class="column ">
-    <div class="box ">
-  <article class="media">
-    <div class="media-left">
-      <figure class="image is-64x64">
-        <img src="/avatars/mipmap_avatar.jpg"  width=128 height=128>
-      </figure>
-    </div>
-    <div class="media-content">
-      <div class="content" >
-        <p >
-          <a href="http://www.mipmap.top:666" target="_blank"> <span class="text-dark">MipMap</span></a>
-          <div class="text-muted">一个爱学习的中学生</div>
-        </p>
-      </div>
-    </div>
-  </article>
-</div>
-</div>
-</div>

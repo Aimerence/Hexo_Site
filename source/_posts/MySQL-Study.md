@@ -1,5 +1,5 @@
 ---
-title: MySQL 学习笔记（1）
+title: MySQL 数据库基本操作
 article-thumbnail: false
 keywords: [MySQL]
 top: 100
@@ -10,7 +10,7 @@ thumbnail:
 categories: MySQL
 ---
 
-开始学习 MySQL 数据库
+MySQL 数据库一些常用操作
 <!-- more -->
 
 ## 启动/关闭
@@ -138,5 +138,18 @@ DCL(Data Control Language)数据控制语言(了解):
 ```
 
 
+## 例表
 
+
+```mysql
+CREATE TABLE `user` (
+  `id` int(11) NOT NULL AUTO_INCREMENT,
+  `username` varchar(32) NOT NULL COMMENT '用户名称',
+  `birthday` datetime DEFAULT NULL COMMENT '生日',
+  `sex` char(1) DEFAULT NULL COMMENT '性别',
+  `address` varchar(256) DEFAULT NULL COMMENT '地址',
+  PRIMARY KEY (`id`)
+) ENGINE=InnoDB DEFAULT CHARSET=utf8
+
+```
 
