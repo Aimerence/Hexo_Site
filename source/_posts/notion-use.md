@@ -38,3 +38,5 @@ Notion 分为个人版（免费）、个人pro版本（教育免费）、团队�
 - [Notion大神系列教程](https://www.notion.so/177-Notion-b34756f9b12947ff94252e1d61be5726)
 
 - [Notion大神b站地址](https://space.bilibili.com/152842171/video?tid=0&page=2&keyword=&order=pubdate)
+
+我的博客即将同步至腾讯云+社区，邀请大家一同入驻：https://cloud.tencent.com/developer/support-plan?invite_code=fmovyphmhjql

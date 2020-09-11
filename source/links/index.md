@@ -34,10 +34,6 @@ links:
       img: /avatars/liuyao-blog-avatar.webp
       name: 果果小师弟
       desc: 一个喜欢嵌入式的小码农
-    - url: https://www.geekinns.cn/
-      img: /avatars/geekinns_avatar.webp
-      name: GeekInns
-      desc: 努力努力，学习不易
     - url: https://www.cloudcver.com/
       img: /avatars/CloudCver_avatar.webp
       name: CloudCver 意犹未尽

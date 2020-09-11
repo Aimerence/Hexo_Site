@@ -11,7 +11,7 @@ categories: Java
 记录实习工作中写代码遇到的一些问题及解决方法
 <!-- more -->
 
-## 后台总路线
+## 后台总路线（要学的不止这些）
 - JAVA
 - Spring SpringMVC Mybatis
 - SpringBoot
@@ -46,6 +46,31 @@ categories: Java
     set character_set_connection=gbk; 
     set character_set_results=gbk
 
+
+# Mysql数据库忘记密码
+    mysql bin目录cmd 运行mysqld --skip-grant-tables（确保已经停止mysql.exe服务) 
+    再cmd  mysql无需密码登入use mysql;
+    select user,host,password from user; 来查看账户信息 
+    更改root密码，输入update user set password=password('123456') where user='root' and host='localhost';
+
+# idea中文乱码解决方案
+    file->settings->appearence 里面有个Name设置成支持中文的字体
+    settings中的Eidtor->File Encodings里面设置字体编码格式，一般都是UTF-8，GBK什么的也行
+    找到idea安装目录bin目录下如下图所示两个文件，用编辑器打开
+    在文件末尾添加 -Dfile.encoding=UTF-8 ，然后重启idea 
+    再打流程图就会发现中文已经可以正常显示了
+
+# idea启动springboot项目报错
+    报错信息如下：
+    Error running 'AuthApplication': Command line is too long. 
+    Shorten command line for AuthApplication or also for Spring Boot default configuration.
+    解决办法：在.idea文件夹下面的workspace.xml中的 <component name="PropertiesComponent">标签下面
+    添加： <property name="dynamic.classpath" value="true"/> 即可
+
+
+# Maven项目依赖报错
+
+....
 
 
 
